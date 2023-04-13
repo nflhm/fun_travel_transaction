@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>id.co.travel.fun</groupId>
-	<artifactId>transaction-header</artifactId>
+	<artifactId>transaction</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>transaction-header</name>
-	<description>Spring Boot Training Project - Transaction Header </description>
+	<name>transaction</name>
+	<description>Spring Boot Training Project - Transaction</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
